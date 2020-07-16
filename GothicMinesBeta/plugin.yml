@@ -1,3 +1,8 @@
 name: GothicMinesBeta
 main: com.loncha.gothicminesbeta.Main
 version: 0.1
+commands:
+   crearcaldero:
+      description: Comando para crear un caldero.
+      usage: /crearcaldero x y z nivel
+      aliases: [h]
